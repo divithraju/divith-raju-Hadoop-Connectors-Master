@@ -1,1 +1,1 @@
-# Distributed-Computing-system-Hadoop
+# Hadoop Connectors Master
